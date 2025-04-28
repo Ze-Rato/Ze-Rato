@@ -3,5 +3,5 @@
 </p>
 
 - I like doing stuff on calculators for some reason
-- Decent on JS
+- Mostly random stuff, but also C, C++ and Assembly
 
